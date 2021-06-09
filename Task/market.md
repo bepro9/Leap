@@ -1,3 +1,5 @@
+# Reliance Fresh
+```python
 dash = '-'
 star = '*'
 space =' '
@@ -24,4 +26,4 @@ else:
       
 print('Available Items : ')
 for i in list: print('-> '+i.capitalize())
-
+```
