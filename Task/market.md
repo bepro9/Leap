@@ -26,4 +26,5 @@ else:
       
 print('Available Items : ')
 for i in list: print('-> '+i.capitalize())
+print('\nThank You')
 ```
